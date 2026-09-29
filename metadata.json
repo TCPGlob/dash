@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Admin — SaaS User Management Dashboard",
+  "description": "Enterprise B2B SaaS user management dashboard with TanStack Table, URL-synced filters, server-side pagination, optimistic updates, and reusable UI architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
